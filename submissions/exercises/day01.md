@@ -1,12 +1,14 @@
-## Day: 01 of UI/UX 💖
+# Day: 01 of UI/UX 💖
 
 <img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
 
-Topic: Introduction to UI/UX Design
+## Topic: Introduction to UI/UX Design
+
+<br/>
 
 #### 1. UI and UX analyses for Day 1
 
-&nbsp;&nbsp;&nbsp;&nbsp;**User-Experience Analysis:**<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<br/> **User-Experience Analysis:**<br/>
 
 -   Identify any distractions or unnecessary elements that could potentially confuse users.<br/>
 
