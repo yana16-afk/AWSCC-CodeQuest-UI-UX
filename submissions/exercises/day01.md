@@ -2,9 +2,7 @@
 
 <img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
 
-You've made it—great job! Now, here's the scoop: this markdown file is your **canvas**. Customize it; let your creativity flow!
-
-Remember, you're free to add your personal touch, but keep the sacred requirements intact; they are the guardians of order here. This markdown file should or may include:
+Topic: Introduction to UI/UX Design
 
 #### 1. UI and UX analyses for Day 1
 
