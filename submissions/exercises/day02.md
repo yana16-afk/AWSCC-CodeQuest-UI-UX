@@ -29,6 +29,6 @@
 
 > <img width="600" alt="4  Images" src="https://github.com/yana16-afk/AWSCC-CodeQuest-UI-UX/assets/116958231/3fcfab22-504e-45b6-bf47-e4016b9918ba">
 
-  **4. Commenting**
+  **7. Commenting**
   
 > <img width="600" alt="7  Commenting" src="https://github.com/yana16-afk/AWSCC-CodeQuest-UI-UX/assets/116958231/333c7017-868b-4bfa-a15d-86ec5a869837">
