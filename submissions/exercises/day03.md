@@ -1,13 +1,16 @@
-## Hello there, my fellow Alfbuddy! 💖
+# Day: 03 of UI/UX 💖
 
 <img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
+<br/>
 
-You've made it—great job! Now, here's the scoop: this markdown file is your **canvas**. Customize it; let your creativity flow!
+## Topic: Design Principles
 
-Remember, you're free to add your personal touch, but keep the sacred requirements intact; they are the guardians of order here. This markdown file should or may include:
-- Link to your own file of **"Week 1 [Day 3] : Activity"**
-- An **optional** screenshot of playing the game **"Can't Unsee"** and your feedback
+<br/>
 
-Ready to include your output for **Day 3**? Let the customization begin! 🚀✨
+- Link to my own file of **"Week 1 [Day 3] : Activity"** : [Yana's C.R.A.P. Design Principles](https://www.figma.com/file/fczMKJ58lI4ku0C8Qs2uN0/Week-1-%5BDay-3%5D-%3A-Activity-(Community)?type=design&node-id=202%3A38&mode=design&t=dRlhZghlXDbV5sPW-1)
+  <br/>
+- A **screenshot** of playing the game **"Can't Unsee"** and my feedback
 
-<!-- You may now delete and modify the content of this file -->
+  <br/> FEEDBACK: **_This game got me so serious about playing it but nonetheless, it was entertaining since it tested my eyes when it comes to design principle_**
+<img width="1552" alt="Can't Unsee Screenshot" src="https://github.com/yana16-afk/AWSCC-CodeQuest-UI-UX/assets/116958231/106869ef-7410-4c2b-b1c2-3a44b7bf963e">
+
