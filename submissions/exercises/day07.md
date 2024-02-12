@@ -1,14 +1,19 @@
-## Hello there, my fellow Alfbuddy! 💖
+# Day: 07 of UI/UX 💖
 
 <img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
 
-You've made it—great job! Now, here's the scoop: this markdown file is your **canvas**. Customize it; let your creativity flow!
+## Topic: Wireframe Fidelity 🎨
+<br/>
 
-Remember, you're free to add your personal touch, but keep the sacred requirements intact; they are the guardians of order here. This markdown file should include:
-- Link to your own file of **"Week 1 [Day 7]: Low-Fidelity Layout"**
+- Link to your own file of **"Week 1 [Day 7]: Low-Fidelity Layout":**
+
+  
+  [Yana's Figma Low-Fidelity Wireframe](https://www.figma.com/file/thNXoLOWmy900aJsyUxUGa/Week-1%3A-Low-Fidelity-Layout-(Community)?type=design&node-id=0%3A1&mode=design&t=QaVRigbl2eyd9IzH-1)
+
+
 - A sneak peek of your wireframe clone to give us a glimpse of your creation
 
+<img width="834" alt="Screenshot 2024-02-12 at 10 43 52 PM" src="https://github.com/yana16-afk/AWSCC-CodeQuest-UI-UX/assets/116958231/d165a3a6-6977-42ab-a051-e191b7c64102">
 
-Ready to include your output for **Day 7**? Let the customization begin! 🚀✨
 
-<!-- You may now delete and modify the content of this file -->
+
